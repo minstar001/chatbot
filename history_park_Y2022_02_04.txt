@@ -1,0 +1,993 @@
+    1  2022-02-04 16:34:38 ls
+    2  2022-02-04 16:34:38 if
+    3  2022-02-04 16:34:38 netstat -nr
+    4  2022-02-04 16:34:38 ls
+    5  2022-02-04 16:34:38 n
+    6  2022-02-04 16:34:38 ifconfig
+    7  2022-02-04 16:34:38 ipconfig
+    8  2022-02-04 16:34:38 netstat -nr
+    9  2022-02-04 16:34:38 ls
+   10  2022-02-04 16:34:38 netstat
+   11  2022-02-04 16:34:38 ping
+   12  2022-02-04 16:34:38 status NetworkMaager
+   13  2022-02-04 16:34:38 systemctl status NetworkManager
+   14  2022-02-04 16:34:38 nmtui
+   15  2022-02-04 16:34:38 ifconfig
+   16  2022-02-04 16:34:38 nslookup
+   17  2022-02-04 16:34:38 /etc/sysconfig/network
+   18  2022-02-04 16:34:38 sudo /etc/sysconfig/network
+   19  2022-02-04 16:34:38 sudo
+   20  2022-02-04 16:34:38 sudo -h
+   21  2022-02-04 16:34:38 ifconfig
+   22  2022-02-04 16:34:38 ifconfig
+   23  2022-02-04 16:34:38 config
+   24  2022-02-04 16:34:38 ping
+   25  2022-02-04 16:34:38 /etc/sysconfig/network
+   26  2022-02-04 16:34:38 netstat
+   27  2022-02-04 16:34:38 poweroff
+   28  2022-02-04 16:34:38 history
+   29  2022-02-04 16:34:38 echo "export HISTTIMEFORMAT='%F %T '">/etc/profile.d/history.sh
+   30  2022-02-04 16:34:38 history
+   31  2022-02-04 16:34:38 yum -y install wget 
+   32  2022-02-04 16:34:38 https://www.php.net/distributions/php-7.2.17.tar.gz
+   33  2022-02-04 16:34:38 history
+   34  2022-02-04 16:34:38 yum -y groupinstall "Development Tools" --setopt=group_package_types=mandatory,default,optional
+   35  2022-02-04 16:34:38 yum install -y bind php-gd php-mbstring zlib-devel bzip2-devel openssl-devel ncurses-devel gcc gcc-c++ termcap ncurses-devel python-devel readline-devel flex openssl-devel screen libxml2-devel libpng-devel expat-devel gd-devel  curl-devel php-mysqli gdbm-devel zlib curl g++ cpp openssl libtermcap-devel libc-client-devel bison make wget psmisc ntsysv libidn-devel glib2-devel net-tools
+   36  2022-02-04 16:34:38 vi /etc/firewalld/zones/public.xml
+   37  2022-02-04 16:34:38 firewall-cmd --reload
+   38  2022-02-04 16:34:38 chmod 777 /home
+   39  2022-02-04 16:34:38  usermod -a -G webmaster11 nobody
+   40  2022-02-04 16:34:38  usermod -a -G nobody webmaster11
+   41  2022-02-04 16:34:38  chmod 777 /home/webmaster11
+   42  2022-02-04 16:34:38  useradd -s /bin/bash -m -d /home/talknow talknow
+   43  2022-02-04 16:34:38  passwd talknow
+   44  2022-02-04 16:34:38 vi /etc/sysconfig/selinux
+   45  2022-02-04 16:34:38 reboot
+   46  2022-01-03 14:14:24 history
+   47  2022-01-03 14:18:18  chmod 777 /home
+   48  2022-01-03 14:18:24 usermod -a -G webmaster11 nobody
+   49  2022-01-03 14:18:46 chmod 777 /home/webmaster11
+   50  2022-01-03 14:18:52  useradd -s /bin/bash -m -d /home/talknow talknow
+   51  2022-01-03 14:19:50  useradd -s /bin/bash -m -d /home/webmaster11 webmaster11
+   52  2022-01-03 14:20:00 usermod -a -G webmaster11 nobody
+   53  2022-01-03 14:20:22 usermod -a -G nobody webmaster11
+   54  2022-01-03 14:20:28  chmod 777 /home/webmaster11
+   55  2022-01-03 14:20:43 vi /etc/ld.so.conf
+   56  2022-01-03 14:21:42 /sbin/idconfig
+   57  2022-01-03 14:22:03 /sbin/Idconfig
+   58  2022-01-03 14:22:13  /sbin/ldconfig
+   59  2022-01-03 14:26:17 wget
+   60  2022-01-03 14:28:54 wget http://msgr2.talknow.co.kr/back_new12_Y2018_07_29.tar.gz
+   61  2022-01-03 14:29:52 ls
+   62  2022-01-03 14:30:19 tar zxpvf back_new12_Y2018_07_29.tar.gz 
+   63  2022-01-03 14:33:01 ls
+   64  2022-01-03 14:33:11 cd back_new12
+   65  2022-01-03 14:33:19 ls
+   66  2022-01-03 14:35:10 vi New_Step01_apache2.2.x_Twistd_Zope_Pthread.bat
+   67  2022-01-03 14:38:08 ./New_Step01_apache2.2.x_Twistd_Zope_Pthread.bat
+   68  2022-01-03 14:41:01 # /sbin/ldconfig
+   69  2022-01-03 14:41:10 /sbin/ldconfig
+   70  2022-01-03 14:41:24 cd /root/install
+   71  2022-01-03 14:41:28 ls
+   72  2022-01-03 14:42:07 ./New_Step02_Curl_Mhash_Crypt.bat
+   73  2022-01-03 14:43:44 cp my.utf8.5.7.20.cnf /etc/my.cnf
+   74  2022-01-03 14:44:06 ./New_Step03_mysql_5.7.20.bat
+   75  2022-01-03 15:31:26 ./New_Step04_Mysql_lib.bat
+   76  2022-01-03 15:31:36 history
+   77  2022-01-03 15:31:54 ./New_Step04_Mysql_lib.bat
+   78  2022-01-03 15:53:40 history
+   79  2022-01-03 16:15:59 ipconfig
+   80  2022-01-03 16:16:02 ifconfig
+   81  2022-01-04 09:06:13 /usr/local/apache/bin/apachectl start
+   82  2022-01-04 09:20:09 /usr/local/mysql/bin/mysqld
+   83  2022-01-04 09:20:36 /etc/my.cnf
+   84  2022-01-04 09:20:45 ls
+   85  2022-01-04 09:21:09 /usr/local/mysql/bin/mysqld --help
+   86  2022-01-04 09:28:45 history
+   87  2022-01-04 11:09:20 /usr/local/apache/bin/apachectl start
+   88  2022-01-04 11:09:44 cd /usr/local/apache/ 
+   89  2022-01-04 11:09:47 ls
+   90  2022-01-04 11:09:56 conf
+   91  2022-01-04 11:10:11 cd conf
+   92  2022-01-04 11:10:15 ls
+   93  2022-01-04 11:10:48 grep DocumentRoot *.conf
+   94  2022-01-04 11:35:45 cd /usr/local/apache/ 
+   95  2022-01-04 11:35:49 ls
+   96  2022-01-04 11:36:00 cd conf
+   97  2022-01-04 11:36:03 ls
+   98  2022-01-04 11:36:24 grep DocumentRoot *.conf
+   99  2022-01-04 11:40:08 exit
+  100  2022-01-04 11:43:58 cd /usr/local/apache/ 
+  101  2022-01-04 11:44:01 ls
+  102  2022-01-04 11:44:48 conf
+  103  2022-01-04 13:19:19 tar zxpvf converse.js-9.0.0.tgz
+  104  2022-01-04 13:19:33 exit
+  105  2022-01-04 13:20:01 tar zxpvf converse.js-9.0.0.tgz
+  106  2022-01-04 13:20:07 cd
+  107  2022-01-04 13:20:11 cd --help
+  108  2022-01-04 13:20:37 cd tar zxpvf converse.js-9.0.0.tgz
+  109  2022-01-04 13:22:48 pwd
+  110  2022-01-04 13:23:09 cd /home
+  111  2022-01-04 13:23:13 ls
+  112  2022-01-04 13:23:20 cd /talknow
+  113  2022-01-04 13:23:42 cd /webmaster11
+  114  2022-01-04 13:23:49 cd /mysql
+  115  2022-01-04 13:27:35 exit
+  116  2022-01-04 13:28:03 cd/root/install
+  117  2022-01-04 13:28:15 cd /root/install
+  118  2022-01-04 13:28:24 ls
+  119  2022-01-04 13:29:55 cd /root
+  120  2022-01-04 13:32:49 cd /ROOT
+  121  2022-01-04 13:32:52 cd /root
+  122  2022-01-04 13:32:54 ls
+  123  2022-01-04 13:33:51 find
+  124  2022-01-04 13:34:21 find converse
+  125  2022-01-04 13:39:43 cd conf
+  126  2022-01-04 13:40:31 grep DocumentRoot *.conf
+  127  2022-01-04 13:40:54 cd /usr/local/apache/ 
+  128  2022-01-04 13:40:59 ls
+  129  2022-01-04 13:41:03 grep DocumentRoot *.conf
+  130  2022-01-04 13:41:20 cd conf
+  131  2022-01-04 13:41:30 grep DocumentRoot *.conf
+  132  2022-01-04 13:46:51 cd /usr/local/apache/htdocs
+  133  2022-01-04 13:46:53 ls
+  134  2022-01-04 13:54:18 pwd
+  135  2022-01-04 13:54:29 cd /
+  136  2022-01-04 13:54:33 cd /root
+  137  2022-01-04 13:54:36 pwd
+  138  2022-01-04 13:54:54 cd /usr/local/apache/htdocs
+  139  2022-01-04 13:55:03 vi test.html
+  140  2022-01-04 14:19:35 cd /usr/local/apache
+  141  2022-01-04 14:19:36 ls
+  142  2022-01-04 14:19:52 cd /usr/local/apache/conf
+  143  2022-01-04 14:19:54 ls
+  144  2022-01-04 14:20:01 vi httpd.conf
+  145  2022-01-04 14:28:39 cd /usr/local/apache
+  146  2022-01-04 14:28:43 ls
+  147  2022-01-04 14:28:57 cd /usr/local/apache/htdocs
+  148  2022-01-04 14:29:05 vi test.html
+  149  2022-01-04 15:22:47 vi index.html
+  150  2022-01-04 16:35:06 cd /root
+  151  2022-01-04 16:35:11 find talknow
+  152  2022-01-04 16:35:20 find
+  153  2022-01-04 16:35:37 ./converse.js-9.0.0.tgz
+  154  2022-01-04 16:36:00 history
+  155  2022-01-04 16:37:11 wget converse.js-9.0.0.tgz
+  156  2022-01-04 16:39:48 ls
+  157  2022-01-04 16:40:06 cd install
+  158  2022-01-04 16:40:08 ls
+  159  2022-01-04 16:42:04 logout
+  160  2022-01-04 16:42:27 wget --help
+  161  2022-01-04 16:43:30 wget https://github.com/conversejs/converse.js/releases/download/v9.0.0/converse.js-9.0.0.tgz
+  162  2022-01-04 16:43:55 find converse
+  163  2022-01-04 16:44:22 ls
+  164  2022-01-04 16:45:19 tar zxpvf converse.js-9.0.0.tgz
+  165  2022-01-04 16:45:35 ls
+  166  2022-01-04 16:46:06 cd /package
+  167  2022-01-04 16:46:20 pwd
+  168  2022-01-04 16:46:28 cd /root/package
+  169  2022-01-04 16:46:29 ls
+  170  2022-01-04 16:46:56 docs
+  171  2022-01-04 16:47:03 cd /docs
+  172  2022-01-04 16:47:12 cd /root/package/docs
+  173  2022-01-04 16:47:14 ls
+  174  2022-01-04 16:47:23 cd /root/package/docs/html
+  175  2022-01-04 16:47:25 ls
+  176  2022-01-04 16:47:47 cd /root/package/docs/html/api
+  177  2022-01-04 16:47:48 ls
+  178  2022-01-04 16:47:56 cd /root
+  179  2022-01-04 16:47:59 converse
+  180  2022-01-04 16:48:05 converse.js
+  181  2022-01-04 16:48:08 start
+  182  2022-01-04 16:49:10 ls
+  183  2022-01-04 16:49:54 cd /usr/local/apache
+  184  2022-01-04 16:49:56 ls
+  185  2022-01-04 16:53:34 vi index.html
+  186  2022-01-04 16:55:44 history
+  187  2022-01-04 16:56:13 cd /usr/local/apache/htdocs
+  188  2022-01-04 16:56:15 ls
+  189  2022-01-04 16:56:20 vi index.html
+  190  2022-01-04 17:01:50 cd /srv/www
+  191  2022-01-04 17:02:01 cd /root
+  192  2022-01-04 17:02:54 grep DocumentRoot *.conf
+  193  2022-01-04 17:03:58 nano
+  194  2022-01-04 17:12:37 cd /usr/local/apache/htdocs
+  195  2022-01-04 17:12:42 vi index.html
+  196  2022-01-04 17:14:55 /root
+  197  2022-01-04 17:14:58 cd /root
+  198  2022-01-04 17:15:05 apt-get install git-core
+  199  2022-01-04 17:15:23 wget https://github.com/jcbrand/converse.js.git
+  200  2022-01-04 17:16:22 ls
+  201  2022-01-04 17:16:35 cd /root/converse.js.git
+  202  2022-01-04 17:16:54 directory
+  203  2022-01-04 17:17:27 make
+  204  2022-01-04 17:17:32 make serve
+  205  2022-01-04 17:17:38 make dist
+  206  2022-01-04 17:17:42 ./dist
+  207  2022-01-04 17:17:49 ./converse.js
+  208  2022-01-04 17:22:48 ls
+  209  2022-01-04 17:24:53 import * as converse from 'converse.js'
+  210  2022-01-04 17:25:09 import converse from 'converse.js/src/converse.js';
+  211  2022-01-04 17:42:48 ./converse.js-9.0.0.tgz
+  212  2022-01-04 17:43:00 ./root/converse.js-9.0.0.tgz
+  213  2022-01-04 17:43:09 ./converse.js-9.0.0.tgz
+  214  2022-01-04 17:43:18 sudo ./converse.js-9.0.0.tgz
+  215  2022-01-04 17:44:09 find
+  216  2022-01-04 17:44:44 find |more
+  217  2022-01-04 17:46:21 ls
+  218  2022-01-04 17:46:49 cd /usr/local/apache/htdocs
+  219  2022-01-04 17:46:50 ls
+  220  2022-01-04 17:46:57 cd /usr/local/apache
+  221  2022-01-04 17:46:59 ls
+  222  2022-01-04 17:47:10 vi .conf
+  223  2022-01-04 17:47:16 ls
+  224  2022-01-04 17:47:28 pwd
+  225  2022-01-04 17:47:32 /root
+  226  2022-01-04 17:47:37 cd /root
+  227  2022-01-04 17:47:42 ls
+  228  2022-01-04 17:47:48 cd /root/install
+  229  2022-01-04 17:47:49 ls
+  230  2022-01-04 17:48:00 cd /root
+  231  2022-01-04 17:48:11 find
+  232  2022-01-04 17:49:48 ls
+  233  2022-01-04 17:50:07 cd /usr/local/apache
+  234  2022-01-04 17:50:09 ls
+  235  2022-01-04 17:51:26 cd /usr/local/apache/htdocs
+  236  2022-01-04 17:51:30 ls
+  237  2022-01-04 17:51:33 vi t.php
+  238  2022-01-04 17:51:47 vi test.html
+  239  2022-01-04 17:53:49 cd /root
+  240  2022-01-04 17:53:56 cd /root/install
+  241  2022-01-04 17:53:58 ls
+  242  2022-01-04 17:54:13 cd /root
+  243  2022-01-04 17:54:54 find
+  244  2022-01-04 17:55:43 find converse.js
+  245  2022-01-04 17:55:47 find converse
+  246  2022-01-04 17:55:50 find install
+  247  2022-01-05 09:12:37 history
+  248  2022-01-05 09:16:32 cd /user
+  249  2022-01-05 09:16:36 cd /usr
+  250  2022-01-05 09:17:04 cd /usr/local
+  251  2022-01-05 09:17:06 ls
+  252  2022-01-05 09:17:28 wget https://github.com/conversejs/converse.js/releases/download/v9.0.0/converse.js-9.0.0.tgz
+  253  2022-01-05 09:17:54 wget https://github.com/conversejs/converse.js/archive/refs/tags/v9.0.0.tar.gz
+  254  2022-01-05 09:23:20 ls
+  255  2022-01-05 09:24:54 tar --help
+  256  2022-01-05 09:25:26 ls
+  257  2022-01-05 09:25:42 tar -zcvf v9.0.0.tar.gz
+  258  2022-01-05 09:25:55 tar -zxvf v9.0.0.tar.gz
+  259  2022-01-05 09:26:10 ls
+  260  2022-01-05 09:26:23 converse
+  261  2022-01-05 09:27:44 tar -xvzf converse.js-9.0.0.tgz
+  262  2022-01-05 09:27:47 ls
+  263  2022-01-05 09:27:56 ./converse.js-9.0.0
+  264  2022-01-05 09:28:07 .
+  265  2022-01-05 09:28:11 ./converse.js-9.0.0.tgz
+  266  2022-01-05 09:28:25 cd /converse.js-9.0.0
+  267  2022-01-05 09:28:51 cd /usr/local/converse.js-9.0.0
+  268  2022-01-05 09:28:53 ls
+  269  2022-01-05 09:29:06 vi README.md
+  270  2022-01-05 09:29:53 converse
+  271  2022-01-05 09:30:04 make server
+  272  2022-01-05 09:30:13 vi RELEASE.md
+  273  2022-01-05 09:36:00 make check
+  274  2022-01-05 09:36:44 make release
+  275  2022-01-05 09:38:17 sudo apt-get install npm
+  276  2022-01-05 09:38:41 cd /usr/local/bin/npm
+  277  2022-01-05 09:38:51 cd /usr/local/bin
+  278  2022-01-05 09:38:53 ls
+  279  2022-01-05 09:42:43 cd /usr/local
+  280  2022-01-05 09:42:48 wget https://nodejs.org/dist/v16.13.1/node-v16.13.1-linux-x64.tar.xz
+  281  2022-01-05 09:43:46 tar -zxvf node-v16.13.1-linux-x64.tar.gz
+  282  2022-01-05 09:43:58 tar -zxvf node-v16.13.1-linux-x64.tar.xz
+  283  2022-01-05 09:45:04 tar -xvzf node-v16.13.1-linux-x64.tar.gz
+  284  2022-01-05 09:45:13 ls
+  285  2022-01-05 09:46:25 wget https://nodejs.org/dist/v16.13.1/node-v16.13.1.tar.gz
+  286  2022-01-05 09:47:04 tar xvzf node-v16.13.1.tar.gz
+  287  2022-01-05 09:47:40 ls
+  288  2022-01-05 09:47:58 mv node-v16.13.1 nodejs
+  289  2022-01-05 09:48:05 cd /nodejs
+  290  2022-01-05 09:48:08 ls
+  291  2022-01-05 09:48:21 cd /usr/local/nodejs
+  292  2022-01-05 09:48:24 ||
+  293  2022-01-05 09:48:30 cd /usr/local/nodejs || bin
+  294  2022-01-05 09:49:02 vi /etc/profile
+  295  2022-01-05 09:51:32 source /etc/protfile
+  296  2022-01-05 09:51:48 source /etc/profile
+  297  2022-01-05 09:51:55 node
+  298  2022-01-05 09:52:05 .exit
+  299  2022-01-05 09:52:17 cd /usr/local
+  300  2022-01-05 09:52:18 node
+  301  2022-01-05 09:52:38 source /etc/profile
+  302  2022-01-05 09:52:40 node
+  303  2022-01-05 09:54:16 yum -y install nodejs
+  304  2022-01-05 09:54:51 node
+  305  2022-01-05 09:55:28 yum repolist
+  306  2022-01-05 09:55:51 cd /
+  307  2022-01-05 09:55:54 cd /root
+  308  2022-01-05 09:56:04 yum repolist
+  309  2022-01-05 09:56:28 yum install epel-release
+  310  2022-01-05 09:56:47 yum -y install nodejs
+  311  2022-01-05 09:57:18 node
+  312  2022-01-05 09:57:34 node -v; rpm -qa | grep node
+  313  2022-01-05 09:58:05 node
+  314  2022-01-05 09:58:35 cd /usr/local
+  315  2022-01-05 09:58:37 ls
+  316  2022-01-05 09:58:57 mv converse.js-9.0.0 conversejs
+  317  2022-01-05 09:59:00 ls
+  318  2022-01-05 09:59:12 cd /usr/local/conversejs
+  319  2022-01-05 09:59:14 ls
+  320  2022-01-05 09:59:48 vi RELEASE.md
+  321  2022-01-05 10:00:40 make check
+  322  2022-01-05 10:17:33 sudo npm update -g
+  323  2022-01-05 10:18:50 sudo npm update -g npm
+  324  2022-01-05 10:19:24 npm install -g npm@latest
+  325  2022-01-05 10:19:42 cd /usr/local
+  326  2022-01-05 10:19:48 sudo npm update -g
+  327  2022-01-05 10:19:53 ls
+  328  2022-01-05 10:21:19 cd /usr/local/conversejs
+  329  2022-01-05 10:21:26 npm install pug@latest
+  330  2022-01-05 10:21:35 npm update
+  331  2022-01-05 10:21:49 npm
+  332  2022-01-05 10:22:05 cd /usr/local
+  333  2022-01-05 10:22:07 npd
+  334  2022-01-05 10:22:08 npm
+  335  2022-01-05 10:23:00 cd /usr/local/conversejs
+  336  2022-01-05 10:23:10 make check
+  337  2022-01-05 10:23:46 maek release VERSION=8.0.1
+  338  2022-01-05 10:23:55 make release VERSION=8.0.1
+  339  2022-01-05 10:24:37 nvm install 14.18.1
+  340  2022-01-05 10:24:59 node
+  341  2022-01-05 10:25:08 node -v
+  342  2022-01-05 10:25:14 npm -v
+  343  2022-01-05 10:25:23 brew uninstall npm
+  344  2022-01-05 10:29:33 make check
+  345  2022-01-05 10:33:50 npm root -g
+  346  2022-01-05 10:34:53 cd /root
+  347  2022-01-05 10:35:04 npm config set prefix /usr/local
+  348  2022-01-05 10:35:11 npm
+  349  2022-01-05 10:35:14 node
+  350  2022-01-05 10:36:15 npm -v
+  351  2022-01-05 10:38:26 npm cache clean -f
+  352  2022-01-05 10:41:10 npm -v; rpm -qa | grep npm
+  353  2022-01-05 10:41:32 grep npm
+  354  2022-01-05 10:42:58 cd /usr/local/nodejs
+  355  2022-01-05 10:43:01 ||
+  356  2022-01-05 10:43:05 ls
+  357  2022-01-05 10:44:18 cd /usr/local
+  358  2022-01-05 10:44:19 ls
+  359  2022-01-05 10:44:39 cd /usr/local/bin
+  360  2022-01-05 10:44:41 ls
+  361  2022-01-05 10:44:57 find npm
+  362  2022-01-05 10:46:56 cd /usr/local
+  363  2022-01-05 10:46:59 npm -v
+  364  2022-01-05 10:47:21 npm -v; rpm -qa | grep npm
+  365  2022-01-05 10:47:25 rpm -qa
+  366  2022-01-05 10:51:07 ls
+  367  2022-01-05 10:51:11 make check
+  368  2022-01-05 10:51:20 history
+  369  2022-01-05 10:51:25 npm
+  370  2022-01-05 10:51:26 yum
+  371  2022-01-05 10:52:29 sudo npm cache clear
+  372  2022-01-05 10:54:01 rm -rf/usr/local/bin/node
+  373  2022-01-05 10:54:10 rm /usr/local/bin/node
+  374  2022-01-05 10:54:22 rm /usr/local/node
+  375  2022-01-05 10:54:52 apt-get
+  376  2022-01-05 10:55:22 grep package-lock.json
+  377  2022-01-05 11:08:10 npm install
+  378  2022-01-05 11:08:36 lsbom -f -l -s -pf /var/db/receipts/org.nodejs.pkg.bom | while read f; do  sudo rm /usr/local/${f}; done
+  379  2022-01-05 11:08:40 sudo rm -rf /usr/local/lib/node /usr/local/lib/node_modules /var/db/receipts/org.nodejs.*
+  380  2022-01-05 11:08:54 cd /usr/local/lib
+  381  2022-01-05 11:08:58 sudo rm -rf node*
+  382  2022-01-05 11:09:03 cd /usr/local/include
+  383  2022-01-05 11:09:08 sudo rm -rf node*
+  384  2022-01-05 11:09:14 brew uninstall node
+  385  2022-01-05 11:09:19 sudo rm -rf /usr/local/bin/npm
+  386  2022-01-05 11:09:19 sudo rm -rf /usr/local/bin/node
+  387  2022-01-05 11:09:21 ls -las
+  388  2022-01-05 11:09:30 sudo rm -rf /usr/local/share/man/man1/node.1
+  389  2022-01-05 11:09:30 sudo rm -rf /usr/local/lib/dtrace/node.d
+  390  2022-01-05 11:09:31 sudo rm -rf ~/.npm
+  391  2022-01-05 11:10:31 yum install nodejs
+  392  2022-01-05 11:10:46 yum install npm
+  393  2022-01-05 11:10:54 npm -v
+  394  2022-01-05 11:11:02 yum uninstall nodejs
+  395  2022-01-05 11:11:08 yum
+  396  2022-01-05 11:12:56 yum --help
+  397  2022-01-05 11:14:08 apt-get
+  398  2022-01-05 11:14:13 yum prge nodejs
+  399  2022-01-05 11:14:24 yum purge nodejs
+  400  2022-01-05 11:16:53 cd /root
+  401  2022-01-05 11:16:56 curl https://raw.githubusercontent.com/dvershinin/apt-get-centos/master/apt-get.sh -o /usr/local/bin/apt-get
+  402  2022-01-05 11:17:04 chmod 0755 /usr/local/bin/apt-get
+  403  2022-01-05 11:17:13 apt-get install nodejs
+  404  2022-01-05 11:17:37 node -v
+  405  2022-01-05 11:17:40 npm -v
+  406  2022-01-05 11:18:10 apt remove rpm
+  407  2022-01-05 11:18:12 apt
+  408  2022-01-05 11:18:14 apt-get
+  409  2022-01-05 11:18:26 apt install npm
+  410  2022-01-05 11:18:37 apt install nodejs
+  411  2022-01-05 11:19:00 apt-get remove npm
+  412  2022-01-05 11:19:19 yum remove npm
+  413  2022-01-05 11:19:27 yum remove nodejs
+  414  2022-01-05 11:19:41 nodejs -v
+  415  2022-01-05 11:19:44 node 0v
+  416  2022-01-05 11:19:46 node-v
+  417  2022-01-05 11:19:48 node -v
+  418  2022-01-05 11:19:56 yum install nodejs
+  419  2022-01-05 11:21:53 yum -y install nodejs
+  420  2022-01-05 11:22:36 node -v; rpm -qa | grep node npm -v; rpm -qa | grep npm
+  421  2022-01-05 11:22:57 npm -v; rpm -qa | grep npm
+  422  2022-01-05 11:23:23 cd /usr/local
+  423  2022-01-05 11:23:24 ls
+  424  2022-01-05 11:23:41 cd /usr/local/conversjs
+  425  2022-01-05 11:23:46 cd /usr/local/conversejs
+  426  2022-01-05 11:23:46 ls
+  427  2022-01-05 11:23:50 make check
+  428  2022-01-05 11:28:04 npm i
+  429  2022-01-05 11:30:38 npm install -g
+  430  2022-01-05 11:31:00 maek check
+  431  2022-01-05 11:31:05 make check
+  432  2022-01-05 11:32:33 mv /usr/local/conversejs/node_modules/.staging/@gar/promisify-15dd7e71 /usr/local/conversejs/node_modules/npm/node_modules/@gar/promisify
+  433  2022-01-05 11:32:46 ls
+  434  2022-01-05 11:33:06 make release
+  435  2022-01-05 11:34:11 npm
+  436  2022-01-05 11:34:37 make release VERSION=8.0.1
+  437  2022-01-05 11:36:46 npm cache clean
+  438  2022-01-05 11:36:51 npm install -g npm
+  439  2022-01-05 11:38:12 npm cache clean --force
+  440  2022-01-05 11:38:25 rm package-lock.json
+  441  2022-01-05 11:38:38 rm -rf ./node_modules/
+  442  2022-01-05 11:38:45 npm --verbose install
+  443  2022-01-05 11:38:54 npm install
+  444  2022-01-05 11:39:20 npm init
+  445  2022-01-05 11:40:51 yum remove nodejs
+  446  2022-01-05 11:41:01 yum remove npm
+  447  2022-01-05 11:41:17 yum remove apt
+  448  2022-01-05 11:41:23 yum remove apt-get
+  449  2022-01-05 11:41:29 yum install nodejs
+  450  2022-01-05 11:43:31 npm -v
+  451  2022-01-05 11:43:36 node -v
+  452  2022-01-05 11:44:50 ls
+  453  2022-01-05 11:45:05 /root
+  454  2022-01-05 11:45:08 cd /root
+  455  2022-01-05 11:45:09 ls
+  456  2022-01-05 11:45:16 cd /install
+  457  2022-01-05 11:45:24 cd /root/install
+  458  2022-01-05 11:45:25 ls
+  459  2022-01-05 11:45:37 cd /root
+  460  2022-01-05 11:45:53 find nodejs
+  461  2022-01-05 11:45:56 grep nodejs
+  462  2022-01-05 11:46:06 cd /usr/local
+  463  2022-01-05 11:46:09 ls
+  464  2022-01-05 11:46:23 cd /usr/local/nodejs
+  465  2022-01-05 11:46:24 ls
+  466  2022-01-05 11:46:41 echo #PATH
+  467  2022-01-05 11:46:50 echo $PATH
+  468  2022-01-05 11:47:21 vi /etc/profile
+  469  2022-01-05 11:51:33 source /etc/profile
+  470  2022-01-05 11:51:41 echo $PATH
+  471  2022-01-05 11:53:40 npm root -g
+  472  2022-01-05 11:54:10 vi /home/vagrant/.bash_frofile
+  473  2022-01-05 11:55:34 npm
+  474  2022-01-05 12:05:12 cd /usr/local/conversejs
+  475  2022-01-05 12:05:23 make check
+  476  2022-01-05 12:57:49 npm cache clean --force
+  477  2022-01-05 12:59:55 rm package-lock.json
+  478  2022-01-05 13:00:16 rm -rf./node_modules/
+  479  2022-01-05 13:00:30 rm -rf ./node_modules/
+  480  2022-01-05 13:00:38 npm --verbose install
+  481  2022-01-05 13:04:11 npm root -g
+  482  2022-01-05 13:04:47 npm -v
+  483  2022-01-05 13:06:11 history
+  484  2022-01-05 13:06:43 ls
+  485  2022-01-05 13:06:52 vi RELEASE.md
+  486  2022-01-05 13:07:34 make check
+  487  2022-01-05 13:11:20 npm root -g
+  488  2022-01-05 13:12:06 /.bash_profile
+  489  2022-01-05 13:13:39  /usr/lib/node_modules/.bash_frofile
+  490  2022-01-05 13:13:50 /.bash_frofile
+  491  2022-01-05 13:14:52 cd /usr/lib/node_modules
+  492  2022-01-05 13:14:53 ls
+  493  2022-01-05 13:16:12 cd /usr
+  494  2022-01-05 13:16:13 ls
+  495  2022-01-05 13:16:23 cd /usr/lib
+  496  2022-01-05 13:16:24 ls
+  497  2022-01-05 13:17:15 npm root -g
+  498  2022-01-05 13:21:28 /root
+  499  2022-01-05 13:21:33 cd /root
+  500  2022-01-05 13:21:35 npm init
+  501  2022-01-05 13:24:05 npm root
+  502  2022-01-05 13:24:10 npm root -g
+  503  2022-01-05 13:24:46 /.bash_profile
+  504  2022-01-05 13:25:38 echo $PATH
+  505  2022-01-05 13:26:36 node root
+  506  2022-01-05 13:26:43 node -v
+  507  2022-01-05 13:28:00 npm config
+  508  2022-01-05 13:28:08 npm config get prefix
+  509  2022-01-05 13:28:32 mkdir ~
+  510  2022-01-05 13:30:48 mkdir --help
+  511  2022-01-05 13:31:14 mkdir /npm_global_modules
+  512  2022-01-05 13:31:16 ls
+  513  2022-01-05 13:31:55 npm config set prefix '/npm_global_modules'
+  514  2022-01-05 13:32:12 vi /.profile
+  515  2022-01-05 13:33:35 souce /.profile
+  516  2022-01-05 13:33:44 source /.profile
+  517  2022-01-05 13:35:19 make check
+  518  2022-01-05 13:36:33 cd /usr/local/conversejs
+  519  2022-01-05 13:36:36 make check
+  520  2022-01-05 13:46:55 npm i
+  521  2022-01-05 13:59:58 make release VERSION=8.0.1
+  522  2022-01-05 14:01:04 git diff
+  523  2022-01-05 14:01:17 dist
+  524  2022-01-05 14:01:29 git commit Release 8.0.1
+  525  2022-01-05 14:06:49 converse
+  526  2022-01-05 14:06:55 maek serve
+  527  2022-01-05 14:06:58 make serve
+  528  2022-01-05 14:08:01 make dist
+  529  2022-01-05 14:17:22 cd /usr/local/apache
+  530  2022-01-05 14:17:24 ls
+  531  2022-01-05 14:20:12 cd /root
+  532  2022-01-05 14:20:15 killall httpd
+  533  2022-01-05 14:20:35 /usr/local/apache/bin/apachectl start &
+  534  2022-01-05 14:21:21 /usr/local/apache/bin/apachectl start
+  535  2022-01-05 14:23:00 converse
+  536  2022-01-05 14:24:59 logout
+  537  2022-01-11 09:12:08 history
+  538  2022-01-11 09:19:13 /usr/local/apache/bin/apachectl start
+  539  2022-01-11 09:46:43 cd /usr/local/apache/htdocs
+  540  2022-01-11 09:46:50 vi test.html
+  541  2022-01-11 10:38:57 vi RELEASE.md
+  542  2022-01-11 10:39:11 make check
+  543  2022-01-11 10:39:19 ls
+  544  2022-01-11 10:52:41 vi fullscreen.html
+  545  2022-01-11 10:57:23 cd demo
+  546  2022-01-11 10:57:24 ls
+  547  2022-01-11 10:57:33 vi anonymous.html
+  548  2022-01-11 10:57:55 cd ..
+  549  2022-01-11 10:58:38 vi test.html
+  550  2022-01-11 11:06:59 cd demo
+  551  2022-01-11 11:07:11 ls
+  552  2022-01-11 11:07:16 vi embedded.html
+  553  2022-01-11 11:09:14 vi anonymous.html
+  554  2022-01-11 11:09:55 vi embedded.html
+  555  2022-01-11 11:10:16 cd ..
+  556  2022-01-11 11:10:20 vi test.html
+  557  2022-01-11 11:14:09 vi embedded.html
+  558  2022-01-11 11:14:18 cd demo
+  559  2022-01-11 11:14:22 vi embedded.html
+  560  2022-01-11 11:44:54 vi anonymous.html
+  561  2022-01-11 11:45:39 cd ..
+  562  2022-01-11 11:45:42 vi test.html
+  563  2022-01-11 13:19:25 vi index.html
+  564  2022-01-11 13:21:30 ls
+  565  2022-01-11 13:22:31 make check
+  566  2022-01-11 13:23:24 vi RELEASE.md
+  567  2022-01-11 13:23:46 npm -v
+  568  2022-01-11 13:23:54 node -v
+  569  2022-01-11 13:24:08 yum make
+  570  2022-01-11 13:24:17 yum install make
+  571  2022-01-11 13:24:26 make
+  572  2022-01-11 13:24:46 make check
+  573  2022-01-11 13:24:51 make
+  574  2022-01-11 13:25:02 ls
+  575  2022-01-11 13:26:06 git clone https://github.com/conversejs/converse.js.git
+  576  2022-01-11 13:26:56 ls
+  577  2022-01-11 13:27:00 cd converse.js
+  578  2022-01-11 13:27:04 make dev
+  579  2022-01-11 13:30:12 ls
+  580  2022-01-11 13:30:34 vi webpack.html
+  581  2022-01-11 13:30:59 cd ..
+  582  2022-01-11 13:31:00 ls
+  583  2022-01-11 13:31:09 rm converse.js
+  584  2022-01-11 13:31:19 rm -rf converse.js
+  585  2022-01-11 13:31:21 ls
+  586  2022-01-11 13:31:37 make check
+  587  2022-01-11 13:31:40 make serve
+  588  2022-01-11 13:31:55 make run
+  589  2022-01-11 13:31:58 make dev
+  590  2022-01-11 13:42:54 ls
+  591  2022-01-11 13:44:15 vi webpack.html
+  592  2022-01-11 13:46:26 make dev
+  593  2022-01-11 13:46:34 npm run lerna
+  594  2022-01-11 13:46:55 npm bugs converse.js
+  595  2022-01-11 13:49:00 make wach
+  596  2022-01-11 13:49:03 make watch
+  597  2022-01-11 13:51:42 make serve
+  598  2022-01-11 13:56:32 npm i webpack
+  599  2022-01-11 13:56:51 ls
+  600  2022-01-11 13:57:13 make serve
+  601  2022-01-11 13:58:34 webpack --config webpack.dev.js
+  602  2022-01-11 13:59:00 make check
+  603  2022-01-11 14:04:12 ls
+  604  2022-01-11 14:04:31 rm -rf node_modules package.json
+  605  2022-01-11 14:04:35 npm i
+  606  2022-01-11 14:04:48 npm i -g
+  607  2022-01-11 14:06:44 npm i
+  608  2022-01-11 14:06:48 ls
+  609  2022-01-11 14:06:58 make dev
+  610  2022-01-11 14:09:32 npm check
+  611  2022-01-11 14:09:40 make check
+  612  2022-01-11 14:11:09 ls
+  613  2022-01-11 14:11:19 mkdir
+  614  2022-01-11 14:11:33 mkdir t
+  615  2022-01-11 14:11:57 cp t test.html
+  616  2022-01-11 14:12:09 cp t htdocs
+  617  2022-01-11 14:12:20 ls
+  618  2022-01-11 14:12:48 rm t
+  619  2022-01-11 14:12:52 rm -f t
+  620  2022-01-11 14:12:57 rm -r t
+  621  2022-01-11 14:13:00 ls
+  622  2022-01-11 14:13:39 git clone https://github.com/conversejs/converse.js.git
+  623  2022-01-11 14:14:24 ls
+  624  2022-01-11 14:14:33 cd converse.js
+  625  2022-01-11 14:14:34 ls
+  626  2022-01-11 14:14:43 make dev
+  627  2022-01-11 14:18:27 ls
+  628  2022-01-11 14:18:29 cd ..
+  629  2022-01-11 14:18:33 make dev
+  630  2022-01-11 14:19:56 ls
+  631  2022-01-11 14:20:10 make serve
+  632  2022-01-11 14:21:31 cd /usr/local
+  633  2022-01-11 14:21:32 ls
+  634  2022-01-11 14:21:52 cd apache
+  635  2022-01-11 14:21:52 ls
+  636  2022-01-11 14:21:57 cd t
+  637  2022-01-11 14:22:02 ls
+  638  2022-01-11 14:22:14 cd ..
+  639  2022-01-11 14:22:28 htdocs
+  640  2022-01-11 14:22:32 cd htdcos
+  641  2022-01-11 14:22:38 cd htdocs
+  642  2022-01-11 14:22:39 ls
+  643  2022-01-11 14:23:59 rm *
+  644  2022-01-11 14:24:19 n
+  645  2022-01-11 14:26:53 rm -rf *
+  646  2022-01-11 14:26:56 ls
+  647  2022-01-11 14:27:28 git clone https://github.com/conversejs/converse.js.git
+  648  2022-01-11 14:28:19 ls
+  649  2022-01-11 14:28:23 converse.js
+  650  2022-01-11 14:28:26 cd converse.js
+  651  2022-01-11 14:28:28 ls
+  652  2022-01-11 14:29:11 cd ..
+  653  2022-01-11 14:29:22 rm -rf converse.js
+  654  2022-01-11 14:29:42 wget https://github.com/conversejs/converse.js/releases/download/v9.0.0/converse.js-9.0.0.tgz
+  655  2022-01-11 14:29:48 ls
+  656  2022-01-11 14:30:01 tar svzf converse.js-9.0.0.tgz
+  657  2022-01-11 14:30:09 tar xvzf converse.js-9.0.0.tgz
+  658  2022-01-11 14:30:12 ls
+  659  2022-01-11 14:30:15 package
+  660  2022-01-11 14:30:19 cd package
+  661  2022-01-11 14:30:21 ls
+  662  2022-01-11 14:30:32 cd ...
+  663  2022-01-11 14:30:51 cd ..
+  664  2022-01-11 14:30:52 ls
+  665  2022-01-11 14:31:28 rm -rf *
+  666  2022-01-11 14:31:29 ls
+  667  2022-01-11 14:31:32 cd ..
+  668  2022-01-11 14:33:16 wget https://github.com/conversejs/converse.js/archive/refs/tags/v9.0.0.tar.gz
+  669  2022-01-11 14:33:21 ls
+  670  2022-01-11 14:35:18 rm v9.0.0.tar.gz
+  671  2022-01-11 14:35:21 ls
+  672  2022-01-11 14:37:12 wget https://github.com/conversejs/converse.js/archive/refs/tags/v9.0.0.zip
+  673  2022-01-11 14:37:15 ls
+  674  2022-01-11 14:37:38 unzip v9.0.0.zip -d ./htdocs
+  675  2022-01-11 14:37:40 ls
+  676  2022-01-11 14:37:44 cd apache
+  677  2022-01-11 14:37:50 cd htdocs
+  678  2022-01-11 14:37:51 ls
+  679  2022-01-11 14:39:04 cd converse.js-9.0.0
+  680  2022-01-11 14:39:10 ls
+  681  2022-01-11 14:39:36 cp -r * ../
+  682  2022-01-11 14:39:40 ls
+  683  2022-01-11 14:39:42 cd ..
+  684  2022-01-11 14:39:43 ls
+  685  2022-01-11 14:40:18 rm converse.js-9.0.0
+  686  2022-01-11 14:40:31 rm -rf converse.js-9.0.0
+  687  2022-01-11 14:40:33 ls
+  688  2022-01-11 14:43:58 vi test.html
+  689  2022-01-11 14:45:24 vi fullscreen.html
+  690  2022-01-11 14:46:17 cd demo
+  691  2022-01-11 14:47:38 ls
+  692  2022-01-11 14:47:50 vi anonymous.html
+  693  2022-01-11 14:50:28 vi embedded.html
+  694  2022-01-11 14:51:29 cd ..
+  695  2022-01-11 14:51:35 vi anonymous.html
+  696  2022-01-11 14:51:45 vi test.html
+  697  2022-01-11 14:51:58 cd demo
+  698  2022-01-11 14:52:07 vi anonymous.html
+  699  2022-01-11 14:52:43 vi embedded.html
+  700  2022-01-11 15:08:42 cd ..
+  701  2022-01-11 15:08:44 vi test.html
+  702  2022-01-11 15:09:21 make dev
+  703  2022-01-11 15:12:52 lerna bootstrap --hoist --ignore-scripts
+  704  2022-01-11 15:12:57 lerna
+  705  2022-01-11 15:13:03 make check
+  706  2022-01-11 15:21:29 make clean && make dist
+  707  2022-01-11 15:25:22 api.settings.get
+  708  2022-01-11 15:31:34 ls
+  709  2022-01-11 15:31:41 cd .nvmrc
+  710  2022-01-11 15:33:55 npm install
+  711  2022-01-11 15:38:40 cd root
+  712  2022-01-11 15:38:44 cd /root
+  713  2022-01-11 15:38:54 rm package-lock.json && npm i
+  714  2022-01-11 15:39:58 npm -v
+  715  2022-01-11 15:40:41 node
+  716  2022-01-11 15:41:04 node -v
+  717  2022-01-11 15:44:50 apt-get --purge remove node
+  718  2022-01-11 15:44:58 yum remove node
+  719  2022-01-11 15:45:05 node
+  720  2022-01-11 15:45:11 node -v
+  721  2022-01-11 15:45:35 cd /root
+  722  2022-01-11 15:47:06 yum remove -y nodejs
+  723  2022-01-11 15:47:13 node -v
+  724  2022-01-11 15:48:26 npm -v
+  725  2022-01-11 15:48:41 npm cache clean
+  726  2022-01-11 15:49:18 wget https://nodejs.org/dist/v16.13.2/node-v16.13.2-linux-x64.tar.xz
+  727  2022-01-11 15:50:07 tar xvzf node-v16.13.2-linux-x64.tar.xz
+  728  2022-01-11 15:50:15 yum install nodejs
+  729  2022-01-11 15:51:36 yum repolist
+  730  2022-01-11 15:53:00 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+  731  2022-01-11 15:53:14 source .bash_profile
+  732  2022-01-11 15:53:54 nvm
+  733  2022-01-11 15:54:05 nvm install
+  734  2022-01-11 15:54:37 nvm install v16.13.2
+  735  2022-01-11 15:55:07 nvm use v16.13.2
+  736  2022-01-11 15:55:20 node -v
+  737  2022-01-11 15:55:24 npm -v
+  738  2022-01-11 15:55:55 cd /usr/local/apache/htdocs
+  739  2022-01-11 15:56:03 make dev
+  740  2022-01-11 15:56:21 npm i
+  741  2022-01-11 15:58:37 make dev
+  742  2022-01-11 15:59:21 ls
+  743  2022-01-11 16:00:30 make serve
+  744  2022-01-11 16:12:50 make check
+  745  2022-01-11 16:13:19 eslint --init
+  746  2022-01-11 16:13:32 make check
+  747  2022-01-11 17:53:07 logout
+  748  2022-01-11 13:42:03 history
+  749  2022-01-11 17:53:13 exit
+  750  2022-01-25 09:26:57 historyexit
+  751  2022-01-25 09:27:03 history
+  752  2022-01-25 09:43:09 node
+  753  2022-01-25 09:43:14 npm
+  754  2022-01-25 09:43:20 nvm
+  755  2022-01-25 09:43:28 history
+  756  2022-01-25 09:43:40 nvm use v16.13.2
+  757  2022-01-25 09:43:47 node
+  758  2022-01-25 09:44:21 nvm use v16.13.2
+  759  2022-01-25 09:50:41 /usr/local/apache/bin/apachectl start &
+  760  2022-01-25 10:33:24 cd /usr/local/apache/htpdocs
+  761  2022-01-25 10:33:34 cd /usr/local/apache/htdocs
+  762  2022-01-25 10:33:36 ls
+  763  2022-01-25 10:59:45 ls dist
+  764  2022-01-25 11:08:37 ls -a
+  765  2022-01-25 11:14:51 make dist/converse-headless.js
+  766  2022-01-25 11:14:57 ls
+  767  2022-01-25 11:15:06 make dist/converse-headless.js
+  768  2022-01-25 11:16:57 cd converse.js/src/headless
+  769  2022-01-25 11:17:03 cd converse.js/src
+  770  2022-01-25 11:17:03 ls
+  771  2022-01-25 11:17:13 cd src
+  772  2022-01-25 11:17:14 ls
+  773  2022-01-25 11:17:19 cd headless
+  774  2022-01-25 11:17:26 ls
+  775  2022-01-25 11:17:31 npm link
+  776  2022-01-25 11:17:47 make watchjs
+  777  2022-01-25 11:18:12 cd ..
+  778  2022-01-25 11:18:14 make watchjs
+  779  2022-01-25 11:18:17 cd ..
+  780  2022-01-25 11:18:19 make watchjs
+  781  2022-01-25 11:18:26 make serve
+  782  2022-01-25 11:28:15 netstat -ltnp | grep ':80'
+  783  2022-01-25 11:38:29 cd ../..
+  784  2022-01-25 11:38:35 cd ..
+  785  2022-01-25 11:38:41 ls
+  786  2022-01-25 11:38:51 cd ..
+  787  2022-01-25 11:38:52 cd root
+  788  2022-01-25 11:38:54 ls
+  789  2022-01-25 11:39:12 vi /ect/firewalld/zones/public.xml
+  790  2022-01-25 11:39:27 vi /etc/firewalld/zones/public.xml
+  791  2022-01-25 15:09:59 firewall-cmd
+  792  2022-01-25 15:10:39 history
+  793  2022-01-25 15:12:39 grep DocumentRoot *.conf
+  794  2022-01-25 15:13:38 make serve
+  795  2022-01-25 15:13:53 cd /usr/local/apache/htpdocs
+  796  2022-01-25 15:13:57 cd /usr/local/apache/htdocs
+  797  2022-01-25 15:14:00 make serve
+  798  2022-01-25 15:41:50 netstat -ltnp | grep ':80'
+  799  2022-01-25 15:41:57 netstat -ltnp | grep ':8000'
+  800  2022-01-25 15:43:10 vi /etc/firewalld/zones/public.xml
+  801  2022-01-25 15:44:23 firewall-cmd --reload
+  802  2022-01-25 15:44:38 make serve
+  803  2022-01-25 15:53:40 vi /etc/firewalld/zones/public.xml
+  804  2022-01-25 15:54:05 reboot.exit
+  805  2022-01-25 15:54:09 reboot
+  806  2022-01-25 15:55:53 history
+  807  2022-01-25 15:55:58 vi /etc/firewalld/zones/public.xml
+  808  2022-01-25 15:56:30 make serve
+  809  2022-01-25 15:57:00 cd /usr/local/apache/htdocs
+  810  2022-01-25 15:57:05 make serve
+  811  2022-01-25 15:57:10 node
+  812  2022-01-25 15:57:19 nvm use 
+  813  2022-01-25 15:57:22 nvm
+  814  2022-01-25 15:57:26 nvm --help
+  815  2022-01-25 15:58:24 nvm use v16.13.2
+  816  2022-01-25 15:58:53 node
+  817  2022-01-25 15:59:34 npm -v
+  818  2022-01-25 15:59:48 nvm install 
+  819  2022-01-25 16:01:12 npm i
+  820  2022-01-25 16:03:02 npm -v
+  821  2022-01-25 16:03:27 ls dev
+  822  2022-01-25 16:03:30 ls
+  823  2022-01-25 16:03:32 ls dist
+  824  2022-01-25 16:04:46 make dev
+  825  2022-01-25 16:05:43 make devserver
+  826  2022-01-25 16:06:39 watch /usr/local/apache/htdocs/node_modules/minipass-pipeline/node_modules
+  827  2022-01-25 16:07:25 cd 
+  828  2022-01-25 16:07:32 cd /usr/local/apache/htdocs/node_modules/minipass-pipeline/node_modules
+  829  2022-01-25 16:07:35 ls
+  830  2022-01-25 16:08:40 ls yhallist
+  831  2022-01-25 16:08:46 ls yallist
+  832  2022-01-25 16:08:52 ls minipass
+  833  2022-01-25 16:09:11 cd ..
+  834  2022-01-25 16:09:17 cd ../..
+  835  2022-01-25 16:09:24 make devserve
+  836  2022-01-25 16:09:27 make devserver
+  837  2022-01-25 16:10:02 make serve
+  838  2022-01-25 16:33:09 netstat -ltnp | grep ':8000'
+  839  2022-01-25 16:34:24 history
+  840  2022-01-25 16:35:29 /usr/local/apache/bin/apachectl start &
+  841  2022-01-25 16:35:46 make check
+  842  2022-01-25 16:36:21 eslint --init
+  843  2022-01-25 16:39:10 ls
+  844  2022-01-25 16:39:15 vi README.md
+  845  2022-01-25 16:39:53 vi RELEASE.md
+  846  2022-01-25 16:41:06 cd src
+  847  2022-01-25 16:41:07 ls
+  848  2022-01-25 16:41:13 vi headless
+  849  2022-01-25 16:41:23 cd headless
+  850  2022-01-25 16:41:26 ls
+  851  2022-01-25 16:41:35 ls tests
+  852  2022-01-25 16:41:46 vi headless.js
+  853  2022-01-25 16:46:47 cd ..
+  854  2022-01-25 16:59:24 ls
+  855  2022-01-25 17:01:41 cd src
+  856  2022-01-25 17:01:42 ls
+  857  2022-01-25 17:01:52 ls headless
+  858  2022-01-25 17:02:04 vi headless/core.js
+  859  2022-01-25 17:02:46 cd headless
+  860  2022-01-25 17:04:22 vi temp.html
+  861  2022-01-25 17:06:37 pwd
+  862  2022-01-25 17:07:28 vi temp.html
+  863  2022-01-25 17:12:25 npm link
+  864  2022-01-25 17:13:12 git clone git@github.com:conversejs/headless-example.git
+  865  2022-01-25 17:23:16 vi temp.html
+  866  2022-01-25 17:23:50 ls
+  867  2022-01-25 17:23:55 ls dist
+  868  2022-01-25 17:24:53 cd ../..
+  869  2022-01-25 17:24:55 ls
+  870  2022-01-25 17:25:06 make src/headless/dist/converse-headless.js
+  871  2022-01-25 17:25:22 cd src/headless
+  872  2022-01-25 17:25:27 ls dist
+  873  2022-01-25 17:25:43 make converse-headless.min.js
+  874  2022-01-25 17:25:47 make converse-headless
+  875  2022-01-25 17:25:52 make --help
+  876  2022-01-25 17:27:11 ls
+  877  2022-01-25 17:27:14 cd ..
+  878  2022-01-25 17:27:19 make dist/converse-headless.js
+  879  2022-01-25 17:27:41 make src/headless/dist/converse-headless.js
+  880  2022-01-25 17:27:56 npm @converse/headless
+  881  2022-01-25 17:28:04 npm converse/headless
+  882  2022-01-25 17:28:09 npm #converse/headless
+  883  2022-01-25 17:58:08 logout
+  884  2022-01-25 17:58:34 history
+  885  2022-01-25 17:58:57 logout
+  886  2022-01-27 11:35:20 history
+  887  2022-01-27 11:36:17 nvm use v16.13.2
+  888  2022-01-27 11:36:36 /usr/local/apache/bin/apachect1 start &
+  889  2022-01-27 11:37:07 /usr/local/apache/bin/apachectl start &
+  890  2022-01-27 11:39:59 cd /etc/httpd/conf/httpd.conf
+  891  2022-01-27 11:40:46 cd /etc/httpd/conf
+  892  2022-01-27 11:40:48 ls
+  893  2022-01-27 11:40:54 vi httpd.conf
+  894  2022-01-27 11:48:02 history
+  895  2022-01-27 11:52:39 npm -v
+  896  2022-01-27 11:52:46 nvm use v16.13.2
+  897  2022-01-27 11:52:56 npm -v
+  898  2022-01-27 13:27:14 cd /usr/local/apache/htdocs
+  899  2022-01-27 13:27:15 ls
+  900  2022-01-27 13:27:23 nano test.html
+  901  2022-01-27 13:53:35 logout
+  902  2022-02-04 10:37:55 nvm use v16.13.2
+  903  2022-02-04 10:38:01 npm -v
+  904  2022-02-04 10:38:12 cd /usr/local/apache
+  905  2022-02-04 10:38:13 ls
+  906  2022-02-04 10:38:27 cd /htdocs
+  907  2022-02-04 10:38:32 cd htdocs
+  908  2022-02-04 10:38:35 ls
+  909  2022-02-04 10:38:53 make check
+  910  2022-02-04 11:00:56 make server
+  911  2022-02-04 11:01:01 make serve
+  912  2022-02-04 11:05:32 history
+  913  2022-02-04 11:05:39 /usr/local/apache/bin/apachectl start &
+  914  2022-02-04 11:33:14 ls
+  915  2022-02-04 11:33:27 nano index.html
+  916  2022-02-04 11:40:02 cd src
+  917  2022-02-04 11:40:03 ls
+  918  2022-02-04 11:41:03 cd headless
+  919  2022-02-04 11:41:06 ls
+  920  2022-02-04 11:41:13 ls dist
+  921  2022-02-04 11:41:17 cd dist
+  922  2022-02-04 11:41:18 ls
+  923  2022-02-04 11:41:33 mke converse-headless.js
+  924  2022-02-04 11:41:37 make converse-headless.min.js
+  925  2022-02-04 11:41:56 cd ../..
+  926  2022-02-04 11:41:59 cd ..
+  927  2022-02-04 11:42:12 npm i @converse/headless
+  928  2022-02-04 11:44:18 ls]
+  929  2022-02-04 11:44:21 ls
+  930  2022-02-04 11:44:35 nano test.html
+  931  2022-02-04 11:51:55 ls dist
+  932  2022-02-04 11:52:12 nano test.html
+  933  2022-02-04 11:53:14 nano convesres.min.js
+  934  2022-02-04 11:53:32 nano converse.min.js
+  935  2022-02-04 11:53:50 nano converse.min.css
+  936  2022-02-04 13:26:10 cd src
+  937  2022-02-04 13:26:11 ls
+  938  2022-02-04 13:26:15 cd headless
+  939  2022-02-04 13:26:18 ls
+  940  2022-02-04 13:27:08 cd dist
+  941  2022-02-04 13:27:09 ls
+  942  2022-02-04 13:27:12 pwd
+  943  2022-02-04 13:28:19 cd ./
+  944  2022-02-04 13:28:24 ls -a
+  945  2022-02-04 13:28:33 ls al
+  946  2022-02-04 13:28:35 ls -al
+  947  2022-02-04 13:29:11 cd ../../..
+  948  2022-02-04 13:29:24 nano test.html
+  949  2022-02-04 13:44:53 ls
+  950  2022-02-04 13:45:29 vi dev.html
+  951  2022-02-04 13:57:57 make dev
+  952  2022-02-04 14:24:12 ls
+  953  2022-02-04 14:24:15 ls dist
+  954  2022-02-04 14:24:27 cd dist
+  955  2022-02-04 14:24:54 make dist
+  956  2022-02-04 14:24:56 make dev
+  957  2022-02-04 14:24:59 ls
+  958  2022-02-04 14:25:03 cd ..
+  959  2022-02-04 14:25:07 make dist
+  960  2022-02-04 14:36:27 ls
+  961  2022-02-04 14:36:30 ls dist
+  962  2022-02-04 14:36:38 cd dist
+  963  2022-02-04 14:36:52 vi converse.min.js
+  964  2022-02-04 14:52:30 cd ..
+  965  2022-02-04 14:52:34 cd src
+  966  2022-02-04 14:52:35 ls
+  967  2022-02-04 14:52:44 ls headless
+  968  2022-02-04 14:55:38 repo
+  969  2022-02-04 14:56:04 cd ..
+  970  2022-02-04 14:56:41 nano test.html
+  971  2022-02-04 15:15:13 netstat -nr
+  972  2022-02-04 15:15:23 cd /etc/sysconfig
+  973  2022-02-04 15:15:24 ls
+  974  2022-02-04 15:15:29 cd network-scripts
+  975  2022-02-04 15:15:30 ls
+  976  2022-02-04 15:15:39 vi ifcfg-enp0s3
+  977  2022-02-04 15:31:31 history
+  978  2022-02-04 16:34:54 nvm use v16.13.2
+  979  2022-02-04 16:35:23 cd /usr/local/apache/htdocs
+  980  2022-02-04 16:35:27 make serve
+  981  2022-02-04 16:39:59 nano test.html
+  982  2022-02-04 16:47:40 ls
+  983  2022-02-04 16:47:43 ls dist
+  984  2022-02-04 16:48:02 vi website.css
+  985  2022-02-04 16:48:22 make html
+  986  2022-02-04 16:48:50 cd dist
+  987  2022-02-04 16:49:18 ls
+  988  2022-02-04 16:53:20 cd ..
+  989  2022-02-04 16:53:28 nano test.html
+  990  2022-02-04 16:55:44 history
+  991  2022-02-04 16:58:55 nano test.html
+  992  2022-02-04 17:03:49 pwd
+  993  2022-02-04 17:04:15 history > history_park_Y2022_02_04.txt
